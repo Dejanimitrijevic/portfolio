@@ -1,0 +1,64 @@
+[
+  {
+    "index": 1,
+    "title": "One Wheel",
+    "tools": [
+      "Shopify",
+      "Dawn",
+      "MailChimp",
+      "AWS"
+    ],
+    "live_preview": "https://onewheel.com/",
+    "thubmnail": "/assets/images/projects/onewheel.png",
+    "overview": "One Wheel is the perfect ride for every rider. You can get the best ride here."
+  },
+  {
+    "index": 2,
+    "title": "Celitic Jewelry",
+    "tools": ["Shopify", "Liquid", "HTML", "CSS"],
+    "live_preview": "https://celticjewellery.ie/",
+    "thubmnail": "/assets/images/projects/celtic.png",
+    "overview": "Sterling Silver Eternal Galway Heart With ancient gaelic script necklace."
+  },
+  {
+    "index": 3,
+    "title": "Helixes",
+    "tools": [
+      "Remix",
+      "Shopify",
+      "React",
+      "SwiperJs"
+    ],
+    "live_preview": "https://helixes.co/",
+    "thubmnail": "/assets/images/projects/helixes.jpg",
+    "overview": "Helixes is content IP-driven business. Built by Remix, Shopify"
+  },
+  {
+    "index": 4,
+    "title": "Code By Edge",
+    "tools": [
+      "Shopify",
+      "React",
+      "Twillo",
+      "Firebase"
+    ],
+    "live_preview": "https://codebyedge.com/",
+    "thubmnail": "/assets/images/projects/codebyedge.jpg",
+    "overview": "Code By Edge is a English Jewelry websites for users to create the jewelry based on Morse code. Built by Shopify, React and Node.js"
+  },
+  {
+    "index": 5,
+    "title": "MEBOOK",
+    "tools": [
+      "ReactJs",
+      "Spring",
+      "ExpressJs",
+      "MongoDB",
+      "Redux",
+      "Axios"
+    ],
+    "live_preview": "https://mebook-mmm066550.netlify.app",
+    "thubmnail": "/assets/images/projects/mebook.png",
+    "overview": "📚 MEBOOK is e-books store Website app with ReactJs and ReduxJs (client-side) and NodeJS for backend server (API)"
+  }
+]
