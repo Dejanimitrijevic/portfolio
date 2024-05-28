@@ -1,19 +1,23 @@
 {
   "facts": [
-    "Hello! I am John Lee.",
-    "I'm a Shopify developer has been working for 6 years."
+    "Hello! I am Dejan Dimitrijevic.",
+    "I'm a Shopify developer has been working for 5 years."
   ],
   "skills": [
     "Shopify Ecosystem",
     "JavaScript",
     "HTML",
     "CSS",
-    "Shopify App",
+    "Shopify App installation & customization",
+    "Shopify App Troubleshooting",
+    "Shopify API integration",
     "Liquid Language",
     "Shopify Theme",
     "React",
     "Remix",
-    "Performance Optimization",
+    "PageSpeed Optimization",
+    "Shopify CLI",
+    "Theme migration",
     "Ruby",
     "SEO",
     "PHP",

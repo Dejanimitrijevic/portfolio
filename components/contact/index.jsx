@@ -30,6 +30,13 @@ export default function Contact({ data }) {
                     </div>
                   </div>
                   <div className="my-3 d-flex align-items-center">
+                    <FaLinkedinIn />
+                    <div>
+                      <h2>Call Me</h2>
+                      <p>{data.linkedin}</p>
+                    </div>
+                  </div>
+                  <div className="my-3 d-flex align-items-center">
                     <AiOutlineMail />
                     <div>
                       <h2>Email</h2>

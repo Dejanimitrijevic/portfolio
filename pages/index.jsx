@@ -55,10 +55,10 @@ export default function App(props) {
             "template_73xpiqg",
             {
               from_name: "SomeOne",
-              to_name: "John Lee(Shopify Developer)",
+              to_name: "Dejan Dimitrijevic(Shopify Developer)",
               from_email: "someone@email.com",
-              to_email: "codebeast0420@gmail.com",
-              message: "Someone saw your John's new poersonal website\n" + content,
+              to_email: "ddimitrijevicdev@gmail.com",
+              message: "Someone saw your Dejan's new poersonal website\n" + content,
             },
             "8lUOVKLjkzOm91o7c"
           )
@@ -97,7 +97,7 @@ export default function App(props) {
       {isBlock == false && (
         <>
           <Head>
-            <title>John Lee&#39;s Portfolio</title>
+            <title>Dejan Dimitrijevic&#39;s Portfolio</title>
             <meta
               name="theme-color"
               content={theme === "dark" ? "#111119" : "#fff"}
@@ -105,7 +105,7 @@ export default function App(props) {
             <link rel="icon" href="/favicon.ico" />
             <meta
               name="description"
-              content="brainstormbuddy • I'm John Lee, A Passionate Senior Shopify Developer"
+              content="brainstormbuddy • I'm Dejan Dimitrijevic, A Passionate Senior Shopify Developer"
             />
             <meta
               name="keyword"
@@ -113,7 +113,7 @@ export default function App(props) {
             ></meta>
             <meta
               property="og:title"
-              content="John Lee | Shopify Developer • Shopify | Shopify APP | Remix| Liquid | MongoDB | PostgresSQL"
+              content="Dejan Dimitrijevic | Shopify Developer • Shopify | Shopify APP | Remix| Liquid | MongoDB | PostgresSQL"
             />
             <meta
               property="og:description"

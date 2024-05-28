@@ -1,50 +1,49 @@
 [
   {
     "index": 1,
-    "title": "One Wheel",
+    "title": "stickmobility",
     "tools": [
       "Shopify",
-      "Dawn",
-      "MailChimp",
-      "AWS"
+      "EE-live",
+      "MailChimp"
     ],
-    "live_preview": "https://onewheel.com/",
-    "thubmnail": "/assets/images/projects/onewheel.png",
-    "overview": "One Wheel is the perfect ride for every rider. You can get the best ride here."
+    "live_preview": "https://stickmobility.com/",
+    "thubmnail": "/assets/images/projects/stickmobility.png",
+    "overview": "Developed and maintained the company's Shopify website, Implemented custom Shopify themes and modified pre-existing themes, Ensured website performance and speed, Provided technical support to Clients."
   },
   {
     "index": 2,
-    "title": "Celitic Jewelry",
-    "tools": ["Shopify", "Liquid", "HTML", "CSS"],
-    "live_preview": "https://celticjewellery.ie/",
-    "thubmnail": "/assets/images/projects/celtic.png",
-    "overview": "Sterling Silver Eternal Galway Heart With ancient gaelic script necklace."
+    "title": "Try Hello Smile",
+    "tools": ["Shopify", "hello-smile", "Liquid", "CSS"],
+    "live_preview": "https://tryhellosmile.com/",
+    "thubmnail": "/assets/images/projects/tryhellosmile.png",
+    "overview": "OptiMonk Popup, & Auto A/B‑Test, SEOAnt ‑ 404 Link Redirect, Klaviyo: Email Marketing & SMS, Consentmo GDPR Compliance, Elevar Conversion Tracking"
   },
   {
     "index": 3,
-    "title": "Helixes",
+    "title": "ifixit",
     "tools": [
-      "Remix",
       "Shopify",
+      "master",
       "React",
       "SwiperJs"
     ],
-    "live_preview": "https://helixes.co/",
-    "thubmnail": "/assets/images/projects/helixes.jpg",
-    "overview": "Helixes is content IP-driven business. Built by Remix, Shopify"
+    "live_preview": "https://eustore.ifixit.com/",
+    "thubmnail": "/assets/images/projects/eustore.png",
+    "overview": "Order Limits ‑ MinMaxify, Boost AI Search & Filter, "
   },
   {
     "index": 4,
-    "title": "Code By Edge",
+    "title": "Anbernic",
     "tools": [
       "Shopify",
+      "TwiImpact 5.1.1",
       "React",
-      "Twillo",
       "Firebase"
     ],
-    "live_preview": "https://codebyedge.com/",
-    "thubmnail": "/assets/images/projects/codebyedge.jpg",
-    "overview": "Code By Edge is a English Jewelry websites for users to create the jewelry based on Morse code. Built by Shopify, React and Node.js"
+    "live_preview": "https://anbernic.com/",
+    "thubmnail": "/assets/images/projects/anbernic.png",
+    "overview": "Hulk Form Builder, Transcy: AI Language Translate, Judge.me Product Reviews, Klaviyo: Email Marketing & SMS, UpPromote Affiliate Marketing"
   },
   {
     "index": 5,
