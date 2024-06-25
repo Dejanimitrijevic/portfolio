@@ -39,41 +39,41 @@ export default function App(props) {
     return detail;
   };
 
-  useEffect(() => {
-    getData().then((res) => {
-      console.log("res", res.data.ip);
-      if (blockIps.includes(res.data.ip)) {
-        alert("Your ip is blocked!");
-        setIsBlock(true);
-      }
-      else {
-        const content = `IP: ${res.data.ip}, Country: ${res.data.country_name}, Country Code: ${res.data.country_code}, City Name: ${res.data.city_name}, Region Name: ${res.data.region_name}, Zip Code: ${res.data.zip_code};`;
+  // useEffect(() => {
+  //   getData().then((res) => {
+  //     console.log("res", res.data.ip);
+  //     if (blockIps.includes(res.data.ip)) {
+  //       alert("Your ip is blocked!");
+  //       setIsBlock(true);
+  //     }
+  //     else {
+  //       const content = `IP: ${res.data.ip}, Country: ${res.data.country_name}, Country Code: ${res.data.country_code}, City Name: ${res.data.city_name}, Region Name: ${res.data.region_name}, Zip Code: ${res.data.zip_code};`;
 
-        emailjs
-          .send(
-            "service_whuxj0o",
-            "template_73xpiqg",
-            {
-              from_name: "SomeOne",
-              to_name: "Dejan Dimitrijevic(Shopify Developer)",
-              from_email: "someone@email.com",
-              to_email: "ddimitrijevicdev@gmail.com",
-              message: "Someone saw your Dejan's new poersonal website\n" + content,
-            },
-            "8lUOVKLjkzOm91o7c"
-          )
-          .then(
-            () => {
-              // setLoading(false);
-            },
-            (error) => {
-              // setLoading(false);
-              console.error(error);
-            }
-          );
-      }
-    });
-  }, []);
+  //       emailjs
+  //         .send(
+  //           "service_whuxj0o",
+  //           "template_73xpiqg",
+  //           {
+  //             from_name: "SomeOne",
+  //             to_name: "Dejan Dimitrijevic(Shopify Developer)",
+  //             from_email: "someone@email.com",
+  //             to_email: "ddimitrijevicdev@gmail.com",
+  //             message: "Someone saw your Dejan's new poersonal website\n" + content,
+  //           },
+  //           "8lUOVKLjkzOm91o7c"
+  //         )
+  //         .then(
+  //           () => {
+  //             // setLoading(false);
+  //           },
+  //           (error) => {
+  //             // setLoading(false);
+  //             console.error(error);
+  //           }
+  //         );
+  //     }
+  //   });
+  // }, []);
 
   useEffect(() => {
     typeof window !== "undefined" &&
