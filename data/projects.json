@@ -1,18 +1,22 @@
 [
   {
     "index": 1,
+    "title": "Astrid & Miyu",
+    "tools": ["Shopify", "Liquid", "HTML", "CSS", "JavaScript"],
+    "live_preview": "https://www.astridandmiyu.com/",
+    "thubmnail": "/assets/images/projects/astrid.png",
+    "overview": "Customized the Shopify store to enhance user experience and improve conversions. Implemented bespoke Liquid templates for product pages, optimized site speed, and integrated third-party marketing tools to drive engagement."
+  },
+  {
+    "index": 2,
     "title": "stickmobility",
-    "tools": [
-      "Shopify",
-      "EE-live",
-      "MailChimp"
-    ],
+    "tools": ["Shopify", "EE-live", "MailChimp"],
     "live_preview": "https://stickmobility.com/",
     "thubmnail": "/assets/images/projects/stickmobility.png",
     "overview": "Developed and maintained the company's Shopify website, Implemented custom Shopify themes and modified pre-existing themes, Ensured website performance and speed, Provided technical support to Clients."
   },
   {
-    "index": 2,
+    "index": 3,
     "title": "Try Hello Smile",
     "tools": ["Shopify", "hello-smile", "Liquid", "CSS"],
     "live_preview": "https://tryhellosmile.com/",
@@ -20,44 +24,27 @@
     "overview": "OptiMonk Popup, & Auto A/B‑Test, SEOAnt ‑ 404 Link Redirect, Klaviyo: Email Marketing & SMS, Consentmo GDPR Compliance, Elevar Conversion Tracking"
   },
   {
-    "index": 3,
+    "index": 4,
     "title": "ifixit",
-    "tools": [
-      "Shopify",
-      "master",
-      "React",
-      "SwiperJs"
-    ],
+    "tools": ["Shopify", "master", "React", "SwiperJs"],
     "live_preview": "https://eustore.ifixit.com/",
     "thubmnail": "/assets/images/projects/eustore.png",
-    "overview": "Order Limits ‑ MinMaxify, Boost AI Search & Filter, "
-  },
-  {
-    "index": 4,
-    "title": "Anbernic",
-    "tools": [
-      "Shopify",
-      "TwiImpact 5.1.1",
-      "React",
-      "Firebase"
-    ],
-    "live_preview": "https://anbernic.com/",
-    "thubmnail": "/assets/images/projects/anbernic.png",
-    "overview": "Hulk Form Builder, Transcy: AI Language Translate, Judge.me Product Reviews, Klaviyo: Email Marketing & SMS, UpPromote Affiliate Marketing"
+    "overview": "Order Limits ‑ MinMaxify, Boost AI Search & Filter."
   },
   {
     "index": 5,
+    "title": "Anbernic",
+    "tools": ["Shopify", "TwiImpact 5.1.1", "React", "Firebase"],
+    "live_preview": "https://anbernic.com/",
+    "thubmnail": "/assets/images/projects/anbernic.png",
+    "overview": "Hulk Form Builder, Transcy: AI Language Translate, Judge.me Product Reviews, Klaviyo: Email Marketing & SMS, UpPromote Affiliate Marketing."
+  },
+  {
+    "index": 6,
     "title": "MEBOOK",
-    "tools": [
-      "ReactJs",
-      "Spring",
-      "ExpressJs",
-      "MongoDB",
-      "Redux",
-      "Axios"
-    ],
+    "tools": ["ReactJs", "Spring", "ExpressJs", "MongoDB", "Redux", "Axios"],
     "live_preview": "https://mebook-mmm066550.netlify.app",
     "thubmnail": "/assets/images/projects/mebook.png",
-    "overview": "📚 MEBOOK is e-books store Website app with ReactJs and ReduxJs (client-side) and NodeJS for backend server (API)"
+    "overview": "📚 MEBOOK is an e-book store web app built with ReactJs and ReduxJs for the client-side, and NodeJS for backend API management."
   }
 ]
